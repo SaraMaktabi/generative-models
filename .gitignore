@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+data/MNIST/raw/t10k-images-idx3-ubyte
+/data
